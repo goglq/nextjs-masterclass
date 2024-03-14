@@ -22,24 +22,17 @@
       "user_email": "peach@netninja.dev"
     },
     {
-      "id": "b126",
-      "title": "New Ticket",
-      "body": "Blah Blah Blah",
-      "priority": "low",
-      "user_email": "myemail@email.com"
-    },
-    {
-      "id": "69c9",
-      "title": "Another New Ticket",
-      "body": "Blah Blah Blah",
-      "priority": "medium",
-      "user_email": "myemail@email.com"
-    },
-    {
-      "id": "b3ea",
-      "title": "Clean Cache",
-      "body": "We have to clean cache, it's jammed!",
+      "id": "1e48",
+      "title": "Disable Cache!",
+      "body": "Disable Cache in TicketList",
       "priority": "high",
+      "user_email": "myemail@email.com"
+    },
+    {
+      "id": "2b7b",
+      "title": "Clean the house",
+      "body": "Clean the place you live in. It's too messy around here",
+      "priority": "medium",
       "user_email": "myemail@email.com"
     }
   ]
